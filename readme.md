@@ -23,7 +23,7 @@
 
 *January 2021 - Present*
 
-- Contributed to the development of the next generation internet banking apps on the iOS and web.
+- Contributed to the development of the next generation internet banking apps on iOS and web.
 - Contributed to the development of the backend microservices powering the next generation banking platform.
 - Championed initiatives to increase adherence to web and mobile accessibilty standards across different platforms.
 - Championed initiatives to promote Test-Driven-Development and Automated Testing across different agile teams.
