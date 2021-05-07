@@ -3,7 +3,7 @@
 
 `Java | Python | Machine Learning | Product Development`
 
-[+61434649928](tel:+61434649928) | [shahriar.haque@gmail.com](mailto:shahriar.haque@gmail.com) | [linkedin.com/in/shahriarhaque](https://www.linkedin.com/in/shahriarhaque/)
+[shahriar.haque@gmail.com](mailto:shahriar.haque@gmail.com) | [linkedin.com/in/shahriarhaque](https://www.linkedin.com/in/shahriarhaque/)
 
 
 ## Education
@@ -24,9 +24,9 @@
 *January 2021 - Present*
 
 - Contributed to the development of the next generation internet banking apps on iOS and web.
-- Contributed to the development of the backend microservices powering the next generation banking platform.
-- Championed initiatives to increase adherence to web and mobile accessibilty standards across different platforms.
-- Championed initiatives to promote Test-Driven-Development and Automated Testing across different agile teams.
+- Contributed to the development of the backend services powering the next generation banking platform.
+- Championed initiatives to increase adherence to web and mobile accessibilty standards.
+- Championed initiatives to promote Test-Driven-Development and Automated Testing.
 - Tech Stack: Swift, Typescript, Angular JS, Kotlin, Java, Google Cloud Platform, Kubernetes.
 
 ### Research Intern
@@ -83,12 +83,3 @@
 - Identified process automation opportunities in a high-volume design and marketing agency
 - Implemented Zapier integrations between GSuite, Freshdesk, Slack, Asana, and GitHub.
 - Developed automated monthly web analytics reporting using Google Data Studio.
-
-## References
-**Scott Velazquez**
-- Delivery Lead, Greater Bank
-- [scott.velazquez@greater.com.au](mailto:scott.velazquez@greater.com.au)
-
-**Omar ElShamy, PhD**
-- Senior Manager, Baker Hughes - A GE Company
-- [omar.elshamy@bhge.com](mailto:omar.elshamy@bhge.com)
